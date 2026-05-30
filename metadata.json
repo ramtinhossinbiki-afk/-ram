@@ -1,0 +1,6 @@
+{
+  "name": "دستیار باغبان هخامنشی - Persepolis Gardening Assistant",
+  "description": "دستیار باغبانی و شناسایی گیاه‌هان با الهام از معماری تخت جمشید، باغ‌های ایرانی (پردیس) و اسطوره‌های ایران باستان به همراه دکمه‌های کاملا فارسی",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
